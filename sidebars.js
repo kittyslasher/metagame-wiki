@@ -29,11 +29,8 @@ module.exports = {
       "enter-metagame/leaderboard",
     ],
     '🤔 What we do': [
-      "Guilding/metasys",
-      "what-we-do/mymeta",
-    ],
-    '🤔 What we do': [
       "what-we-do/tldr",
+      "Guilding/metasys",
       "what-we-do/metasys",
       "what-we-do/mymeta",
       "what-we-do/metaos",
