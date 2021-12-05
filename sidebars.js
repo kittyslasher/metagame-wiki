@@ -56,6 +56,7 @@ module.exports = {
       "playbooks/how-to-coach-eth",
       "playbooks/how-to-hackmd",
       "playbooks/entering-daos-as-a-writer",
+      "playbooks/CupOJosephs-Becoming-An-Ethereum-Developer-Roadmap-and-Guide.md",
       "playbooks/become-a-buidler-on-ethereum-by-austin-griffith",
       "playbooks/how-to-play-twitter-by-visa",
       "playbooks/understanding-impostor-syndrome",
